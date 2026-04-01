@@ -72,8 +72,6 @@ The **Credit-Wise Loan Approval Prediction System** is a Machine Learning projec
 ## 👨‍💻 Author
 
 **Om Javanjal**
-*📧 omjavanjal29@gmail.com
-*🔗 https://www.linkedin.com/in/javanjalom11/
 
 ---
 
