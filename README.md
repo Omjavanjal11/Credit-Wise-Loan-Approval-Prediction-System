@@ -1,4 +1,5 @@
 💳 Credit-Wise Loan Approval Prediction System
+---
 📌 Overview
 
 The Credit-Wise Loan Approval Prediction System is a Machine Learning-based project that predicts whether a loan application should be approved or rejected based on applicant data such as income, credit history, loan amount, and other financial attributes.
